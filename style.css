@@ -1078,20 +1078,24 @@
 #Line_59 {
     fill: transparent;
     stroke: rgba(253,250,250,1);
-    stroke-width: 2px;
+    stroke-width: 30px;
     stroke-linejoin: miter;
     stroke-linecap: butt;
-    stroke-miterlimit: 4;
+    stroke-miterlimit: 40;
     shape-rendering: auto;
 }
 .Line_59 {
     overflow: visible;
     position: absolute;
     width: 424.996px;
-    height: 2px;
+    height: 25px;
     left: 763.133px;
     top: 5940.094px;
     transform: matrix(1,0,0,1,0,0);
+    border-radius: 3%;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
 }
 #Nombre_completo {
     left: 158.633px;
@@ -1238,7 +1242,7 @@
 }
 #Rectangle_17_e {
     fill: transparent;
-    stroke: rgba(253,250,250,1);
+    stroke: rgb(164, 47, 47);
     stroke-width: 2px;
     stroke-linejoin: miter;
     stroke-linecap: butt;
@@ -1266,25 +1270,29 @@
     font-style: normal;
     font-weight: bold;
     font-size: 22px;
-    color: rgba(253,250,250,1);
+    color: rgb(30, 26, 26);
 }
 #Line_60 {
     fill: transparent;
     stroke: rgba(253,250,250,1);
-    stroke-width: 1px;
+    stroke-width: 25px;
     stroke-linejoin: miter;
     stroke-linecap: butt;
-    stroke-miterlimit: 4;
+    stroke-miterlimit: 40;
     shape-rendering: auto;
 }
 .Line_60 {
     overflow: visible;
     position: absolute;
     width: 424.725px;
-    height: 1px;
+    height: 25px;
     left: 145.633px;
     top: 6041.164px;
     transform: matrix(1,0,0,1,0,0);
+    border-radius: 3%;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
 }
 #Tipos_de_solicitud {
     left: 158.633px;
@@ -1326,11 +1334,11 @@
 .Polygon_5 {
     overflow: visible;
     position: absolute;
-    width: 18.039px;
-    height: 12.334px;
+    width: 40px;
+    height: 20px;
     transform: matrix(1,0,0,1,552.3194,6008.0938) rotate(180deg);
     transform-origin: center;
-    left: 0px;
+    left: 185px;
     top: 0px;
 }
 #Rectangle_735 {
