@@ -1267,19 +1267,8 @@
     transform: matrix(1, 0, 0, 1, 0, 0);
 }
 
-/* If screen size is LESS than 1200px wide */
-@media (max-width: 1200px) {}
 
-/* If screen size is MORE than 800px wide */
-@media (min-width: 800px) {}
-
-/* If screen size is BETWEEN 320px and 768px wide AND the orientation is in landscape mode */
-@media screen and (max-width: 350px) {
-    .container {
-        width: auto;
-        max-width: 350px;
-    }
-
+@media (max-width: 400px) {
     .Icon_awesome-instagram {
         width: auto;
         max-width: 350px;
@@ -1296,5 +1285,88 @@
         width: 12%;
         height: 15%;
     }
+
+    #Abre_las_puertas {
+        padding: 10px;
+        left: 10px;
+        top: 53px;
+        width: 82px;
+        font-size: 33px;
+        color: rgba(246, 246, 246, 1);
+    }
+
+    #ManosCel {
+        position: absolute;
+        width: 94px;
+        height: 739px;
+        left: 971px;
+        top: 10px;
+        overflow: visible;
+        flex: auto;
+    }
+
+    #Group_11399 {
+        position: absolute;
+        width: auto;
+        height: auto;
+        left: 0px;
+        top: 139px;
+    }
+
+    #Tesseract_empresa_100_mexicana {
+        left: 40px;
+        top: 260px;
+        width: 326px;
+        height: 159px;
+        line-height: 44px;
+        font-size: 20px;
+        display: inline;
+        color: rgba(255, 255, 255, 1);
+        flex: auto;   
+        margin: 10px auto;     
+        padding: 5px;
+    }
+
+    #Nuestras_Soluciones {
+        left: 10px;
+        top: 997px;
+        width: 400px;
+        font-size: 38px;
+        color: rgba(0, 0, 0, 1);
+    }
+    
+    #Registro {
+        left: 36px;
+        width: -40px;
+    
+        font-size: 25px;
+        color: rgba(87, 186, 97, 1);
+    }
+
+    #Estamos_Contratando_Consulta_n {
+        left: 7px;
+        top: 11px;
+        width: 400px;
+        font-size: 20px;
+        color: rgb(248, 248, 248);
+        text-align: center;
+    }
+
+    #Rectangle_4365 {
+        width:1500%
+    }
+
+    #Enviar1{
+        text-align: center; 
+        align-self: auto;
+        background-color: rgba(87, 186, 97, 1);
+        color: white;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: large;
+        display: block;
+        
+    }
+    
 
 }
