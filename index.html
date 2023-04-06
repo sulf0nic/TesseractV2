@@ -102,7 +102,11 @@
 					brindando accesibilidad de servicios en la nube a bajo<br />costo, cumpliendo con las normas
 					establecidas por las instituciones <br />regulatorias como son CNBV, BANXICO, SHCP o IFAI.</span>
 				<br>
-				<button id="Enviar1" onclick="">Registro</button>
+				<form action="">
+					<button id="Enviar1" onclick="alert('Has seleccionado el boton')"
+						value="Da clic aqui">Registro</button>
+				</form>
+
 				</br>
 			</div>
 		</div>
@@ -390,26 +394,37 @@
 					</rect>
 				</svg>
 				<div id="Home">
-					<span>Home</span>
+					<a href="index.html">
+						<span>Home</span>
+					</a>
 				</div>
 				<div onclick="application.showOverlay(event,'Web_1920__82',0,0)" id="Productos">
 					<span>Productos</span>
 				</div>
 				<div id="API">
-					<span>API</span>
+					<span>
+						<span>
+							<a href="https://tesseract.mx/api-doc">API</a>
+						</span>
+					</span>
 				</div>
 				<div onclick="application.showOverlay(event,'Web_1920__80',0,0)" id="Redes_sociales">
 					<span>Redes sociales</span>
 				</div>
 				<div id="Soporte">
-					<span>Soporte</span>
+					<span>
+						<a href="https://tesseractmx.zendesk.com/hc/es">Soporte</a>
+					</span>
 				</div>
 				<div id="Blog">
 					<span>Blog</span>
 				</div>
-				<div onclick="application.goToTargetView(event)" id="Group_7905">
+				<div id="Group_7905">
 					<div id="n_52_55_7826_9422">
-						<span> +52 55 7826 9422</span>
+						<a id="n_52_55_7826_9422"
+							href="https://api.whatsapp.com/send/?phone=525578269422&text=Hola!%20Quisiera%20más%20información%20sobre%20Tesseract">
+							<span> +52 55 7826 9422</span>
+						</a>
 					</div>
 					<svg class="Exclusion_7" viewBox="18101.146 3648.23 30.902 34.035">
 						<path id="Exclusion_7"
@@ -437,6 +452,9 @@
 			</div>
 		</div>
 	</div>
+	<!-- Start of HubSpot Embed Code -->
+	<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/3952214.js"></script>
+	<!-- End of HubSpot Embed Code -->
 </body>
 
 </html>
