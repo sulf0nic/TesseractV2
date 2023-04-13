@@ -271,7 +271,7 @@
 }
 
 #Aviso_de_privacidad {
-    left: 1200px;
+    left: 1600px;
     top: 6252.594px;
     position: absolute;
     overflow: visible;
@@ -282,7 +282,7 @@
     cursor: pointer;
     text-align: left;
     font-family: Arial;
-    font-style: normal;
+    font-style:italic;
     font-weight: normal;
     font-size: 25px;
     color: rgba(48, 45, 71, 1);
