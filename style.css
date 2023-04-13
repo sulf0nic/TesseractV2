@@ -1676,11 +1676,13 @@ Rectangle_9 {
 #Enviar1 {
     text-align: center;
     align-self: auto;
-    background-color: rgba(87, 186, 97, 1);
+    background-color: #4CAF50;
     color: white;
     margin-left: auto;
     margin-right: auto;
-    font-size: large;
+    font-size: 16px;
+    padding: 15px 32px;
+    font-family: Arial, Helvetica, sans-serif;
     display: block;
 }
 
