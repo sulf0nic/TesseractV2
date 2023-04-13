@@ -1686,6 +1686,232 @@ Rectangle_9 {
     display: block;
 }
 
+#Group_11509 {
+    position: absolute;
+    width: 349.469px;
+    height: 355.069px;
+    left: 701.945px;
+    top: 1337.631px;
+    overflow: visible;
+}
+
+#Group_11502 {
+    transform: translate(-701px, -1337px) matrix(1,0,0,1,701,1337) rotate(0deg);
+    transform-origin: center;
+    position: absolute;
+    width: 349.469px;
+    height: 355.069px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Polygon_7_kk {
+    fill: rgba(74,154,119,1);
+    stroke: rgba(253,250,250,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Polygon_7_kk {
+    overflow: visible;
+    position: absolute;
+    width: 355.069px;
+    height: 349.469px;
+    transform: translate(0px, 0px) matrix(1,0,0,1,-2.8002,2.8002) rotate(90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+#Group_11487 {
+    transform: translate(-701px, -1337px) matrix(1,0,0,1,784.0001,1401.0004) rotate(0deg);
+    transform-origin: center;
+    position: absolute;
+    width: 182.34px;
+    height: 225.209px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Group_11301 {
+    position: absolute;
+    width: 182.34px;
+    height: 225.209px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Path_194 {
+    fill: rgba(253,250,250,1);
+}
+
+.Path_194 {
+    overflow: visible;
+    position: absolute;
+    width: 12.324px;
+    height: 12.326px;
+    left: 27.221px;
+    top: 95.287px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+#Path_195 {
+    fill: rgba(253,250,250,1);
+}
+
+#Group_11290 {
+    position: absolute;
+    width: 87.988px;
+    height: 140.191px;
+    left: 0.18px;
+    top: 85.018px;
+    overflow: visible;
+}
+
+#Path_200 {
+    fill: rgba(253,250,250,1);
+}
+
+#Group_11292 {
+    position: absolute;
+    width: 182.34px;
+    height: 225.209px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Path_202 {
+    fill: rgba(48,45,71,1);
+}
+
+.Path_202 {
+    overflow: visible;
+    position: absolute;
+    width: 88.168px;
+    height: 225.209px;
+    left: 94.172px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+#Group_11291 {
+    position: absolute;
+    width: 88.168px;
+    height: 85.997px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Path_203 {
+    fill: rgba(253,250,250,1);
+}
+
+.Path_203 {
+    overflow: visible;
+    position: absolute;
+    width: 88.168px;
+    height: 85.998px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+.Path_200 {
+    overflow: visible;
+    position: absolute;
+    width: 87.988px;
+    height: 119.24px;
+    left: 0px;
+    top: 20.951px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+#Path_201 {
+    fill: rgba(253,250,250,1);
+}
+
+.Path_201 {
+    overflow: visible;
+    position: absolute;
+    width: 26.137px;
+    height: 20.953px;
+    left: 44.033px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+.Path_195 {
+    overflow: visible;
+    position: absolute;
+    width: 12.326px;
+    height: 12.326px;
+    left: 43.65px;
+    top: 95.287px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+#Path_196 {
+    fill: rgba(253,250,250,1);
+}
+
+.Path_196 {
+    overflow: visible;
+    position: absolute;
+    width: 12.324px;
+    height: 12.326px;
+    left: 27.221px;
+    top: 136.361px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+#Path_197 {
+    fill: rgba(253,250,250,1);
+}
+
+.Path_197 {
+    overflow: visible;
+    position: absolute;
+    width: 12.326px;
+    height: 12.326px;
+    left: 43.65px;
+    top: 177.436px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+#Path_198 {
+    fill: rgba(253,250,250,1);
+}
+.Path_198 {
+    overflow: visible;
+    position: absolute;
+    width: 12.326px;
+    height: 12.326px;
+    left: 43.65px;
+    top: 136.361px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_199 {
+    fill: rgba(253,250,250,1);
+}
+
+.Path_199 {
+    overflow: visible;
+    position: absolute;
+    width: 10.469px;
+    height: 10.645px;
+    left: 29.076px;
+    top: 177.436px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
 @media (max-width: 400px) {
     .Icon_awesome-instagram {
         width: auto;
